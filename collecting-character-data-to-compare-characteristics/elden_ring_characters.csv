@@ -1,0 +1,51 @@
+name,url,faction,location,role,health,has_quest,is_boss,is_miniboss,is_npc,is_hostile,is_friendly,character_type
+Abandoned Merchant,https://eldenring.fandom.com/wiki/Abandoned_Merchant,Unknown,Siofra River,NPCMerchant,209,False,False,False,True,False,True,Merchant NPC
+"Adan, Thief of Fire","https://eldenring.fandom.com/wiki/Adan,_Thief_of_Fire",Unknown,Malefactor's Evergaol,Unknown,6971,False,False,True,False,True,False,Mini-Boss
+"Alexander, Warrior Jar","https://eldenring.fandom.com/wiki/Alexander,_Warrior_Jar",Unknown,"Stormhill, Gael Tunnel, Redmane Castle, Wailing Dunes, Liurnia of the Lakes, Mt. Gelmir, Crumbling Farum Azula",NPCCo-operator,340,False,False,False,True,False,True,NPC
+Ancient Dragon Gransax,https://eldenring.fandom.com/wiki/Ancient_Dragon_Gransax,Unknown,"Leyndell, Royal Capital, Crumbling Farum Azula",War of the Ancient Dragons,1181,False,False,False,False,True,False,Regular Enemy
+Ancient Dragon Lansseax,https://eldenring.fandom.com/wiki/Ancient_Dragon_Lansseax,Unknown,Altus Plateau,Unknown,20618,False,True,False,False,True,False,Boss
+Ancient Dragon Senessax,https://eldenring.fandom.com/wiki/Ancient_Dragon_Senessax,Unknown,Jagged Peak,Unknown,25914,False,True,False,False,True,False,Boss
+Ancient Dragon-Man,https://eldenring.fandom.com/wiki/Ancient_Dragon-Man,Unknown,Dragon's Pit,Judge,25703,False,True,False,False,True,False,Boss
+Aseo,https://eldenring.fandom.com/wiki/Aseo,Unknown,Unknown,Main Character,376,False,False,False,True,True,False,NPC
+Aurelia,https://eldenring.fandom.com/wiki/Aurelia,Unknown,Unknown,Unknown,1535,False,False,False,False,True,False,Regular Enemy
+Aureliette,https://eldenring.fandom.com/wiki/Aureliette,Unknown,Stargazer's Ruins,NPC,330,False,False,False,True,False,True,Merchant NPC
+Baleful Shadow,https://eldenring.fandom.com/wiki/Baleful_Shadow,Unknown,Ainsel River Main,Unknown,395,False,False,False,True,False,True,Merchant NPC
+Base Serpent,https://eldenring.fandom.com/wiki/Base_Serpent,Unknown,Behind Messmer's right eye,Unknown,1067,False,False,False,False,True,False,Regular Enemy
+Bayle the Dread,https://eldenring.fandom.com/wiki/Bayle_the_Dread,Unknown,Jagged Peak,Traitor,28649,False,True,False,False,True,False,Boss
+Black Knight Edredd,https://eldenring.fandom.com/wiki/Black_Knight_Edredd,Unknown,Fort of Reprimand,Leader,20386,False,True,False,False,True,False,Boss
+Black Knight Garrew,https://eldenring.fandom.com/wiki/Black_Knight_Garrew,Unknown,Fog Rift Fort,Leader,24716,False,True,False,False,True,False,Boss
+Blackflame Monk Amon,https://eldenring.fandom.com/wiki/Blackflame_Monk_Amon,Unknown,Unknown,Unknown,922,False,False,False,False,True,False,Regular Enemy
+Blackguard Big Boggart,https://eldenring.fandom.com/wiki/Blackguard_Big_Boggart,Unknown,Liurnia of the Lakes,NPCMerchant,456,False,False,False,True,False,True,Merchant NPC
+Blaidd the Half-Wolf,https://eldenring.fandom.com/wiki/Blaidd_the_Half-Wolf,Unknown,Mistwood Ruins,NPC,13385,False,True,False,False,True,False,Boss
+Bloody Finger Hunter Yura,https://eldenring.fandom.com/wiki/Bloody_Finger_Hunter_Yura,Unknown,Just south of Dragon-Burnt Ruins,NPC,314,False,False,False,True,False,True,Merchant NPC
+Bloody Finger Nerijus,https://eldenring.fandom.com/wiki/Bloody_Finger_Nerijus,Unknown,Spawns near Murkwater Cave,Unknown,8924,False,False,True,False,True,False,Mini-Boss
+Bloody Finger Ravenmount Assassin,https://eldenring.fandom.com/wiki/Bloody_Finger_Ravenmount_Assassin,Unknown,Liurnia of the Lakes,Unknown,374,False,False,False,True,False,True,NPC
+Boc the Seamster,https://eldenring.fandom.com/wiki/Boc_the_Seamster,Unknown,Southeast of Agheel Lake North,Seamster,450,False,False,False,True,False,True,Merchant NPC
+Brother Corhyn,https://eldenring.fandom.com/wiki/Brother_Corhyn,Unknown,Roundtable Hold,"NPC, Merchant",379,False,False,False,True,False,True,Merchant NPC
+Castellan Edgar,https://eldenring.fandom.com/wiki/Castellan_Edgar,Unknown,"Castle Morne, Bridge of Sacrifice",NPCCo-operatorInvader,349,False,False,False,True,True,False,NPC
+Castellan Jerren,https://eldenring.fandom.com/wiki/Castellan_Jerren,Unknown,Redmane Castle,Castellan of Redmane CastleRadahn FestivalWitch-Hunter,489,False,False,False,True,False,True,Merchant NPC
+Chief Guardian Arghanthy,https://eldenring.fandom.com/wiki/Chief_Guardian_Arghanthy,Unknown,Mountaintops of the Giants,Unknown,544,False,False,False,False,True,False,Regular Enemy
+Commander Gaius,https://eldenring.fandom.com/wiki/Commander_Gaius,Unknown,Scaduview,Commander,14588,False,True,False,False,True,False,Boss
+Count Ymir,https://eldenring.fandom.com/wiki/Count_Ymir,Unknown,Cathedral of Manus Metyr,"Finger-Weaver, Glintstone Sorcerer",14572,False,True,False,False,True,False,Boss
+Crucible Knight Devonia,https://eldenring.fandom.com/wiki/Crucible_Knight_Devonia,Unknown,Ancient Ruins of Rauh,Hammer,13274,False,True,False,False,True,False,Boss
+Crucible Knight Ordovis,https://eldenring.fandom.com/wiki/Crucible_Knight_Ordovis,Unknown,Auriza Hero's Grave,LeaderAxe,11999,False,True,False,False,True,False,Boss
+Crucible Knight Siluria,https://eldenring.fandom.com/wiki/Crucible_Knight_Siluria,Unknown,Deeproot Depths,LeaderGreat tree,18987,False,True,False,False,True,False,Boss
+Curseblade Labirith,https://eldenring.fandom.com/wiki/Curseblade_Labirith,Unknown,Unknown,Curseblade,15405,False,True,False,False,True,False,Boss
+"D, Beholder of Death","https://eldenring.fandom.com/wiki/D,_Beholder_of_Death",Unknown,"Siofra Aqueduct, Nokron, Eternal City",NPCCo-operator,5089,False,False,True,False,True,False,Mini-Boss
+"D, Hunter of the Dead","https://eldenring.fandom.com/wiki/D,_Hunter_of_the_Dead",Unknown,West of Summonwater Village (initially)Roundtable Hold,NPCMerchantCo-operator,394,False,False,False,True,False,True,Merchant NPC
+Dancer of Ranah,https://eldenring.fandom.com/wiki/Dancer_of_Ranah,Unknown,Unknown,Unknown,26992,False,True,False,False,True,False,Boss
+Demi-Human Queen Gilika,https://eldenring.fandom.com/wiki/Demi-Human_Queen_Gilika,Unknown,Lux Ruins,Queen,18785,False,True,False,False,True,False,Boss
+Demi-Human Queen Maggie,https://eldenring.fandom.com/wiki/Demi-Human_Queen_Maggie,Unknown,Hermit Village,Queen,24718,False,True,False,False,True,False,Boss
+Demi-Human Queen Margot,https://eldenring.fandom.com/wiki/Demi-Human_Queen_Margot,Unknown,Volcano Cave,Queen,27832,False,True,False,False,True,False,Boss
+Demi-Human Queen Marigga,https://eldenring.fandom.com/wiki/Demi-Human_Queen_Marigga,Unknown,Cerulean Coast,Queen,24841,False,True,False,False,True,False,Boss
+Demi-Human Swordmaster Onze,https://eldenring.fandom.com/wiki/Demi-Human_Swordmaster_Onze,Unknown,Belurat Gaol,Swordmaster,15484,False,True,False,False,True,False,Boss
+Category:Demigods,https://eldenring.fandom.com/wiki/Category:Demigods,Unknown,Unknown,Unknown,1405,False,False,False,False,True,False,Regular Enemy
+Dragon Communion Priestess,https://eldenring.fandom.com/wiki/Dragon_Communion_Priestess,Unknown,Grand Altar of Dragon Communion,Dragon Communion,269,False,False,False,True,False,True,NPC
+Dragonlord Placidusax,https://eldenring.fandom.com/wiki/Dragonlord_Placidusax,Unknown,Crumbling Farum Azula,DragonlordElden Lord (formerly),24292,False,True,False,False,True,False,Boss
+Dryleaf Dane,https://eldenring.fandom.com/wiki/Dryleaf_Dane,Unknown,Unknown,NPC,6196,False,False,True,False,True,False,Mini-Boss
+Dung Eater,https://eldenring.fandom.com/wiki/Dung_Eater,Unknown,"Roundtable Hold, Leyndell, Royal Capital",NPCInvader,465,False,False,False,True,False,True,NPC
+Elden Beast,https://eldenring.fandom.com/wiki/Elden_Beast,Unknown,Stone Platform,Unknown,22402,False,True,False,False,True,False,Boss
+"Eleonora, Violet Bloody Finger","https://eldenring.fandom.com/wiki/Eleonora,_Violet_Bloody_Finger",Unknown,Altus Plateau,Unknown,467,False,False,False,True,True,False,NPC
+Category:Empyreans,https://eldenring.fandom.com/wiki/Category:Empyreans,Unknown,Unknown,Unknown,620,False,False,False,False,True,False,Regular Enemy
+Ensha of the Royal Remains,https://eldenring.fandom.com/wiki/Ensha_of_the_Royal_Remains,Unknown,Roundtable Hold,"NPC, Invader",344,False,False,False,True,False,True,Merchant NPC
+Errant Sorcerer Wilhelm,https://eldenring.fandom.com/wiki/Errant_Sorcerer_Wilhelm,Unknown,Fortified Manor,Unknown,6414,False,False,True,False,True,False,Mini-Boss
